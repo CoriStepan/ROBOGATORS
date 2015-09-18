@@ -1,4 +1,6 @@
 First GIT test
 
 1. Set up an account on https://github.com/
-2. Browse to https://github.com/CoriStepan/ROBOGATORS
+2. Send a mail to MR. Cori (CoriStepan@Outlook.com) with your new account information so that you can be added as a contributer to the project.
+3. Browse to https://github.com/CoriStepan/ROBOGATORS
+
